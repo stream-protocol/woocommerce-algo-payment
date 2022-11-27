@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://streampay.io/images/streampay-logo.svg" width="128" height="128"/>
+  <img src="https://i.imgur.com/ZpgeUEr.png" width="128" height="128"/>
 </p>
 <h1 align="center">Algo Payments for WooCommerce - Powered by StreamPay</h1>
 
