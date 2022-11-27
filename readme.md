@@ -41,3 +41,4 @@ StreamPay fully focuses on building the payment service provider for the Algoran
 ## ToDo
 
 Stream API
+Implement Circle and Solana
