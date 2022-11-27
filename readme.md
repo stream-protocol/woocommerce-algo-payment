@@ -7,6 +7,8 @@
 
 Quickly support Algo based payments within your WooCommerce store. Let your customers pay you directly with Algo, STR, YLDY, Planets, Smile Coin or the stablecoins: USDt, USDc, EURe.
 
+
+
 ## Available currencies:
 
 - Algo
@@ -18,7 +20,7 @@ Quickly support Algo based payments within your WooCommerce store. Let your cust
 - Planets
 - Smile Coin
 
-> Note: Algo Payments for WooCommerce doesn't support FIAT based shops yet. Take this into account that you should only build your shop for a specific Algo/ASA currency.
+> Note: Algo Payments for WooCommerce doesn't support Stream API, FIAT based shops yet. Take this into account that you should only build your shop for a specific Solana (SOL), Circle (USDC, EURC), and Algo/ASA currency.
 
 ## Features:
 - Quick and easy payment flow using the fast and secure checkout system from [streampay.io](https://streampay.io/about/)
@@ -35,3 +37,7 @@ StreamPay is the first pure payment service provider that makes payments fast an
 - Block finalization in less than 4.5 seconds (soon to be 2.5 seconds)
 
 StreamPay fully focuses on building the payment service provider for the Algorand blockchain. Therefore integrating many day-to-day apps with the blockchain through StreamPay.
+
+## ToDo
+
+Stream API
